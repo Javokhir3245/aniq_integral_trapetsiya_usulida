@@ -1,0 +1,12 @@
+F:\fcsevilla\KursIshi\KursIshi\bin\Debug\KursIshi.exe.config
+F:\fcsevilla\KursIshi\KursIshi\bin\Debug\KursIshi.exe
+F:\fcsevilla\KursIshi\KursIshi\bin\Debug\KursIshi.pdb
+F:\fcsevilla\KursIshi\KursIshi\bin\Debug\NCalc.dll
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.csproj.AssemblyReference.cache
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.Form1.resources
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.Properties.Resources.resources
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.csproj.GenerateResource.cache
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.csproj.CoreCompileInputs.cache
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.csproj.CopyComplete
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.exe
+F:\fcsevilla\KursIshi\KursIshi\obj\Debug\KursIshi.pdb
